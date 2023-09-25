@@ -7,7 +7,7 @@ Eu me chamo Vinícius e utilizarei este espaço para compartilhar alguns projeto
 - 💻 Assistente na 2S Consultoria
 - 🎓 Formado em Engenharia Elétrica pela UnB
 - 🌱 Atualmente aprendendo modelos de machine learning
-- ⚙ Conhecimento em:
+- ⚙ Ferramentas e tecnologias:
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
           
