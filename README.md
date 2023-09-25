@@ -1,6 +1,6 @@
 # 👋 Olá, como vai você? 
 
-Eu sou Vinicius e utilizarei este espaço para compartilhar alguns projetos pessoais voltados para a área de dados! 🎲
+Eu me chamo Vinícius e utilizarei este espaço para compartilhar alguns projetos pessoais voltados para a área de dados! 🎲
 
 ## Sobre mim:
 
