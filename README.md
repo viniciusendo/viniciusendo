@@ -1,6 +1,7 @@
 # 👋 Olá, como vai você?
 
-Eu me chamo Vinícius, muito prazer! Sou engenheiro por formação, com ambição de ingressar no mundo dos dados! 🎲
+<div align="justify">
+Eu me chamo Vinícius, muito prazer! Nestes últimos meses, eu tenho me dedicado ao estudo de ferramentas e técnicas de análise de dados, com foco em PowerBI, SQL, Python e suas bibliotecas, com o objetivo de me imergir e ingressar neste mundo dos dados! 🎲
 
 ## Sobre mim
 
@@ -8,7 +9,7 @@ Eu me chamo Vinícius, muito prazer! Sou engenheiro por formação, com ambiçã
 
 🎓 Formado em Engenharia Elétrica pela UnB
 
-🌱 Atualmente estou estudando algoritmos de machine learning e suas aplicações utilizando o scikit-learn
+🌱 Atualmente estou estudando algoritmos de machine learning e suas aplicações utilizando o scikit-learn na Escola DNC
 
 ## Ferramentas e tecnologias
   
