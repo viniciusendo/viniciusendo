@@ -10,7 +10,7 @@ Eu me chamo Vinícius, muito prazer! Sou engenheiro por formação, com ambiçã
 
 🌱 Atualmente estou estudando algoritmos de machine learning e suas aplicações utilizando o scikit-learn
 
-⚙ Ferramentas e tecnologias:
+## Ferramentas e tecnologias
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
           
