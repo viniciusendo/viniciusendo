@@ -1,6 +1,6 @@
-# 👋 Olá, como vai você? 
+# 👋 Olá, como vai você?
 
-Eu me chamo Vinícius! Sou engenheiro por formação, com ambição de ingressar no mundo dos dados! 🎲
+Eu me chamo Vinícius, muito prazer! Sou engenheiro por formação, com ambição de ingressar no mundo dos dados! 🎲
 
 ## Sobre mim
 
@@ -12,7 +12,7 @@ Eu me chamo Vinícius! Sou engenheiro por formação, com ambição de ingressar
 
 ⚙ Ferramentas e tecnologias:
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
           
 ## Contatos
 
@@ -21,7 +21,7 @@ Eu me chamo Vinícius! Sou engenheiro por formação, com ambição de ingressar
 </div>
 
 ## 
-<div>
+<div align="center">
 <a href="https://github.com/viniciusendo">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusendo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusendo&layout=compact&langs_count=7&theme=dracula"/>
